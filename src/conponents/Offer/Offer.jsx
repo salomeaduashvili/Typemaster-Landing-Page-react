@@ -17,34 +17,37 @@ export default function Offer() {
         </div>
         <picture id="KeyboardIMG">
           <source
-            srcset="./images/mobile/image-keyboard.jpg"
+            srcset="/public/images/mobile/image-keyboard.jpg"
             media="(max-width:
         768px)"
           />
           <source
-            srcset="./images/tablet/image-keyboard.jpg"
+            srcset="/public/images/tablet/image-keyboard.jpg"
             media="(max-width:
         1024px)"
           />
           <source
-            srcset="./images/desktop/image-keyboard.jpg"
+            srcset="/public/images/desktop/image-keyboard.jpg"
             media="(min-width:
         1025px)"
           />
-          <img src="./images/mobile/image-keyboard.jpg" alt="Keyboard-image" />
+          <img
+            src="/public/images/mobile/image-keyboard.jpg"
+            alt="Keyboard-image"
+          />
         </picture>
       </section>
       <section className="keyboard-section">
         <div className="images">
           <div className="image-one">
             <img
-              src="images/mobile/image-phone-and-keyboard.jpg"
+              src="/public/images/mobile/image-phone-and-keyboard.jpg"
               alt="phone-and-keyboard-image"
             />
           </div>
           <div className="image-two">
             <img
-              src="./images/mobile/image-glass-and-keyboard.jpg"
+              src="/public/images/mobile/image-glass-and-keyboard.jpg"
               alt="glass-and-keyboard-image"
             />
           </div>
