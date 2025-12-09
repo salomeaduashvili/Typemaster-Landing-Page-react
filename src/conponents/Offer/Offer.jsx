@@ -38,13 +38,13 @@ export default function Offer() {
         <div className="images">
           <div className="image-one">
             <img
-              src="./images/mobile/image-phone-and-keyboard.jpg"
+              src="/public/images/mobile/image-phone-and-keyboard.jpg"
               alt="phone-and-keyboard-image"
             />
           </div>
           <div className="image-two">
             <img
-              src="./images/mobile/image-glass-and-keyboard.jpg"
+              src="/public/images/mobile/image-glass-and-keyboard.jpg"
               alt="glass-and-keyboard-image"
             />
           </div>

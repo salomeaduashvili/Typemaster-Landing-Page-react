@@ -63,7 +63,7 @@ h1 {
 #KeyboardIMG img {
   width: 35.1rem;
   height: 33.1rem;
-  background-image: url(./images/shared/pattern-square.svg);
+  background-image: url(/public/images/shared/pattern-square.svg);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 20px 0 0 20px;
@@ -228,7 +228,7 @@ h1 {
   }
 
   .image-one img {
-    content: url("./images/tablet/image-phone-and-keyboard.jpg");
+    content: url("/public/images/tablet/image-phone-and-keyboard.jpg");
   }
 
   .image-two {
@@ -237,7 +237,7 @@ h1 {
   }
 
   .image-two img {
-    content: url("./images/tablet/image-glass-and-keyboard.jpg");
+    content: url("/public/images/tablet/image-glass-and-keyboard.jpg");
   }
 
   .keyboard-section-content {
@@ -318,7 +318,7 @@ h1 {
   }
 
   .image-one img {
-    content: url("./images/desktop/image-phone-and-keyboard.jpg");
+    content: url("/public/images/desktop/image-phone-and-keyboard.jpg");
   }
 
   .image-two {
@@ -327,7 +327,7 @@ h1 {
   }
 
   .image-two img {
-    content: url("./images/desktop/image-glass-and-keyboard.jpg");
+    content: url("/public/images/desktop/image-glass-and-keyboard.jpg");
   }
 
   .keyboard-section-content {
