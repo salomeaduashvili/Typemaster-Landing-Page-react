@@ -46,7 +46,7 @@ App.jsx
 ## 🚀 URL/Live page:
 
 - Deployed on Vercel.
-- Link:
+- Link: https://typemaster-landing-page-react-8gjw2bqbk.vercel.app/
 
 ---
 
