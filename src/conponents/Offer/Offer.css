@@ -229,6 +229,8 @@ h1 {
 
   .image-one img {
     content: url("/public/images/tablet/image-phone-and-keyboard.jpg");
+    width: 21.4rem;
+    height: 32rem;
   }
 
   .image-two {
@@ -237,6 +239,8 @@ h1 {
   }
 
   .image-two img {
+    width: 44.4rem;
+    height: 32rem;
     content: url("/public/images/tablet/image-glass-and-keyboard.jpg");
   }
 
@@ -318,6 +322,8 @@ h1 {
   }
 
   .image-one img {
+    width: 25.5rem;
+    height: 48rem;
     content: url("/public/images/desktop/image-phone-and-keyboard.jpg");
   }
 
@@ -327,6 +333,8 @@ h1 {
   }
 
   .image-two img {
+    width: 44.4rem;
+    height: 48rem;
     content: url("/public/images/desktop/image-glass-and-keyboard.jpg");
   }
 
